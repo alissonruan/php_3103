@@ -2,7 +2,7 @@
 
 include "cabecalho.php";
 
-include "formulario.php";
+include "conteudo.php";
 
 include "rodape.php";
 

@@ -12,7 +12,9 @@
             <input type="number" name="numero2" id="" class="form-input">
 
             <label for="">Selecione as operações</label>
+
             <select name="op" id="">
+                
             <option value="+">adição</option>
             <option value="-">subtração</option>    
             <option value="/">divisão</option>
